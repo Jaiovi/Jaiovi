@@ -1,9 +1,7 @@
 ### Hi there 👋
-I'm a computer science and technology student with a strong interest in software engineering and UX design. I have experience working with various programming languages, including C++, Swift, Python, and ReactJS. Additionally, I have experience in project management and leadership, having worked in internships as a full-stack developer and SCRUM master.
+👋 Hi there! I'm a computer science and technology student with a strong interest in 💻 software engineering and 🎨 UX design. I have experience working with various programming languages, including C++, Swift, Python, and ReactJS. Additionally, I have experience in project management and leadership, having worked as a 🚀 full-stack developer and SCRUM master.
 
-I'm also passionate about entrepreneurship and have completed a diploma in this area, developing a ride-hailing app prototype as part of my coursework. I'm a skilled communicator, having spoken at several events on topics such as animated influence and stylization AI in animation.
-
-On my GitHub page, you'll find a variety of projects showcasing my skills and experience. I'm always looking for new opportunities to learn and grow, so feel free to reach out to me for collaborations or to learn more about my work :) .
+I'm also passionate about entrepreneurship and have completed a diploma in this area, developing a 🚕 ride-hailing app prototype as part of my coursework. I'm a skilled communicator, having spoken at several events on topics such as 🎥 animated influence and 🤖 stylization AI in animation.
 <!--
 **jaiovi/jaiovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
